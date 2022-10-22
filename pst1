@@ -1,0 +1,5 @@
+chaine="AB3"
+lon1=len(chaine)
+for i in range(lon1):
+  print(chaine[i)
+  
